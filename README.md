@@ -2,16 +2,15 @@
 
 A curated list of awesome software projects.
 
-* [Ataraxia GNU/Linux](https://ataraxialinux.org): An independent Linux-based OS focusing on simplicity, security and privacy.
-* [glaucus](https://glaucuslinux.org): An independent Linux distribution built from scratch.
 * [Music Player Daemon](https://www.musicpd.org/): A flexible, powerful, server-side application for playing music.
 * [ncmpcpp](https://github.com/ncmpcpp/ncmpcpp): An ncurses based MPD client
-* [weechat](https://github.com/weechat/weechat): An extensible chat client.
+* [weechat](https://github.com/weechat/weechat): An extensible chat client
+  (IRC, with plugins for XMPP, Matrix, and probably more)
 * [calcurse](https://github.com/lfos/calcurse): A text-based calendar and scheduling application.
 * [khard](https://github.com/scheibler/khard): A command-line CardDAV client.
 * [vdirsyncer](https://github.com/pimutils/vdirsyncer): Synchronize calendars and contacts.
 * [isync](https://isync.sourceforge.io/): A  command line application which synchronizes mailboxes.
-* [neomutt](https://neomutt.org/): A command line mail reader based on Mutt.
+* [neomutt](https://neomutt.org/): A command line mail reader based on [Mutt](http://www.mutt.org/).
 * [notmuch](https://notmuchmail.org/): Not much of an email program. A fast, global-search and tag-based email system.
 * [pass](https://www.passwordstore.org/): The standard Unix password manager.
 * [neovim](https://neovim.io/): A hyperextensible Vim-based text editor.
@@ -31,3 +30,11 @@ A curated list of awesome software projects.
 * [dmenu](https://tools.suckless.org/dmenu/): A dynamic menu for X.
 * [slock](https://tools.suckless.org/slock/): A simple X display locker.
 * [tabbed](https://tools.suckless.org/tabbed/): A simple generic tabbed frontend to xembed-aware applications.
+* [Ataraxia GNU/Linux](https://ataraxialinux.org): An independent Linux-based OS focusing on simplicity, security and privacy.
+* [glaucus](https://glaucuslinux.org): An independent Linux distribution built from scratch.
+* [9front](http://9front.org/): A fork of Plan 9 From Bell Labs.
+* [Arch Linux](https://archlinux.org/): A lightweight and flexible Linux distribution that tries to Keep It Simple.
+* [coreboot](https://www.coreboot.org/): Fast, secure and flexible Open Source firmware.
+* [Matrix](https://matrix.org/): An open network for secure, decentralized communication.
+* [suckless](https://suckless.org/): Home of dwm, dmenu and other quality software with a focus on simplicity, clarity, and frugality.
+* [cat-v](http://cat-v.org/): A site that hosts Unix and Plan 9 documents among a variety of other things.
