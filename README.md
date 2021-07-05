@@ -38,3 +38,10 @@ A curated list of awesome software projects.
 * [Matrix](https://matrix.org/): An open network for secure, decentralized communication.
 * [suckless](https://suckless.org/): Home of dwm, dmenu and other quality software with a focus on simplicity, clarity, and frugality.
 * [cat-v](http://cat-v.org/): A site that hosts Unix and Plan 9 documents among a variety of other things.
+* [musl](https://musl.libc.org/): A lightweight, fast, simple, and free implementation of the C standard library for Linux.
+* [tcc](https://bellard.org/tcc/): a tiny C compiler.
+* [stagit](https://git.codemadness.org/stagit/): A static git page generator.
+* [dash](http://gondor.apana.org.au/~herbert/dash/): A POSIX-compliant implementation of `/bin/sh` that aims to be as small as possible.
+* [maim](https://github.com/naelstrof/maim): A utility that takes screenshots of your desktop.
+* [Replicant](https://replicant.us/): A fully free (as in freedom) Android distribution.
+* [Plan 9 from Bell Labs](https://9p.io/plan9/): A research system developed at Bell Labs starting in the late 1980s.
